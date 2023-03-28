@@ -1,0 +1,4 @@
+0 No Data
+1 Matang
+2 Setengah Matang
+3 Mentah
